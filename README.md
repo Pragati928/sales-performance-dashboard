@@ -60,10 +60,3 @@ To explore this dashboard:
 
 ---
 """
-
-# Save the README content as a Markdown file
-readme_path = "/mnt/data/README_Sales_Dashboard.md"
-with open(readme_path, "w") as f:
-    f.write(readme_content)
-
-readme_path
