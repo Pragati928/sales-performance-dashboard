@@ -48,7 +48,7 @@ By consolidating data into an interactive **Power BI** dashboard, decision-maker
 
 1. **KPI Cards** – Total Orders, Total Sales, Total Profit, Top Product, Top City  
    📸 
-   ![KPI Cards](<img width="1527" height="305" alt="Image" src="https://github.com/user-attachments/assets/3f5cbbda-d985-47fb-98fe-31ac1dd72790" />)
+   ![KPI Cards]("https://github.com/user-attachments/assets/3f5cbbda-d985-47fb-98fe-31ac1dd72790")
 
 2. **Line Chart** – Sales Trends by Year (2020–2024)  
    📸 
