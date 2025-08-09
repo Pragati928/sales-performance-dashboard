@@ -135,7 +135,7 @@ By consolidating data into an interactive **Power BI** dashboard, decision-maker
 
 **Pragati Kumari**  
 _Data Analyst | Power BI | Excel | SQL | Python_  
-🔗 [LinkedIn](#) *(Add your actual profile link)*
+🔗 [LinkedIn](#) *(www.linkedin.com/in/pragati-kumari-b60352305)*
 
 ---
 
