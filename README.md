@@ -47,27 +47,35 @@ By consolidating data into an interactive **Power BI** dashboard, decision-maker
 ## 📊 Visuals Created  
 
 1. **KPI Cards** – Total Orders, Total Sales, Total Profit, Top Product, Top City  
+
    ![KPI Cards](https://github.com/user-attachments/assets/076633b8-15da-4842-8150-5446e1e0ddba)
 
 2. **Period Comparison** – Sales, Profit & Quantity Analysis Between Two Time Frames  
+
    ![Period Comparison](https://github.com/user-attachments/assets/cc854e47-3c1f-422f-8eb8-fa11ec8463dd)  
 
 3. **Scattered Chart** – Profit vs. Sales  
+
    ![Profit vs Sales](https://github.com/user-attachments/assets/9be906d2-aa83-4c95-aa36-56ab366504c6)    
 
-4. **Bar Charts** – Top 5 & Bottom 5 Products by Sales, Profit, Quantity  
+5. **Bar Charts** – Top 5 & Bottom 5 Products by Sales, Profit, Quantity  
+
    ![Product Performance](https://github.com/user-attachments/assets/eba07e6f-64fe-433a-8a20-afe4d775de57)    
 
-5. **Maps** – Net Sales by City  
+7. **Maps** – Net Sales by City  
+
    ![Sales by City](https://github.com/user-attachments/assets/014345ad-7928-4ab2-9573-3b36a44ce0b0)    
 
-6. **Bar Chart** – Average Discount by Promotion Type  
+9. **Bar Chart** – Average Discount by Promotion Type  
+
    ![Discount Analysis](https://github.com/user-attachments/assets/c6296892-8da3-4283-9f0b-9eb114461e7c)    
 
-7. **Filters & Slicers** – Date, Product, Promotion, Customer Name  
+11. **Filters & Slicers** – Date, Product, Promotion, Customer Name  
+
    ![Filters](https://github.com/user-attachments/assets/c8e3b0ed-8d14-415e-af85-7950fe7adddc)   
 
-8. **Published Dashboard** – Power BI Service View  
+13. **Published Dashboard** – Power BI Service View  
+
    ![Published Dashboard](https://github.com/user-attachments/assets/aea47030-c63b-4591-b552-2ca9f01d2747)  
 
 ---
@@ -84,20 +92,25 @@ By consolidating data into an interactive **Power BI** dashboard, decision-maker
 ![Insights](https://github.com/user-attachments/assets/ac73ed32-f2db-4951-8cb7-22edc1f6de8c)   
 
 **2️⃣ Top Products by Sales**  
+
 ![Top Products](https://github.com/user-attachments/assets/603a3dfe-07e5-4ab6-9654-78e1f6222f75)    
 
 **3️⃣ Bottom Products by Sales**  
+
 ![Bottom Products](https://github.com/user-attachments/assets/9991d881-9a12-447e-98bc-2f4bb62e829d)       
 
 **4️⃣ Top Cities by Sales**  
+
 ![Top Cities](https://github.com/user-attachments/assets/8f92de83-2308-4f4c-afc0-38cef4257a15)
 
 
 **5️⃣ Promotions Impact**  
-![Promotions Impact]("https://github.com/user-attachments/assets/228426ad-e263-4ca8-9f82-e83092184c82)
+
+![Promotions Impact](https://github.com/user-attachments/assets/228426ad-e263-4ca8-9f82-e83092184c82)
 
 
 **6️⃣ Sales Trends**  
+
 ![Sales Trends](https://github.com/user-attachments/assets/a509e970-33f5-4a77-92bb-b56d057b1c1c)  
 
 ---
