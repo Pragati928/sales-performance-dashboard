@@ -47,12 +47,12 @@ By consolidating data into an interactive **Power BI** dashboard, decision-maker
 ## 📊 Visuals Created  
 
 1. **KPI Cards** – Total Orders, Total Sales, Total Profit, Top Product, Top City  
-   ![KPI Cards](https://github.com/user-attachments/assets/3f5cbbda-d985-47fb-98fe-31ac1dd72790)
+   ![KPI Cards](https://github.com/user-attachments/assets/076633b8-15da-4842-8150-5446e1e0ddba)
 
-2. **Line Chart** – Sales Trends by Year (2020–2024)  
-   ![Line Chart](https://github.com/user-attachments/assets/9be906d2-aa83-4c95-aa36-56ab366504c6)  
+2. **Period Comparison** – Sales, Profit & Quantity Analysis Between Two Time Frames  
+   ![Period Comparison](https://github.com/user-attachments/assets/cc854e47-3c1f-422f-8eb8-fa11ec8463dd)  
 
-3. **Clustered Bar Chart** – Profit vs. Sales  
+3. **Scattered Chart** – Profit vs. Sales  
    ![Profit vs Sales](https://github.com/user-attachments/assets/9be906d2-aa83-4c95-aa36-56ab366504c6)    
 
 4. **Bar Charts** – Top 5 & Bottom 5 Products by Sales, Profit, Quantity  
@@ -79,23 +79,26 @@ By consolidating data into an interactive **Power BI** dashboard, decision-maker
 - 💰 **Total Sales**: ₹129M  
 - 📈 **Total Profit**: ₹12.23M  
 - 🏆 **Top Product**: Apple iPhone 14 (₹21.4M Sales, ₹2.14M Profit)  
-- 📍 **Top City**: Bangalore  
-![Insights](https://github.com/user-attachments/assets/3f5cbbda-d985-47fb-98fe-31ac1dd72790)   
+- 📍 **Top City**: Bangalore
+  
+![Insights](https://github.com/user-attachments/assets/ac73ed32-f2db-4951-8cb7-22edc1f6de8c)   
 
 **2️⃣ Top Products by Sales**  
-![Top Products](https://github.com/user-attachments/assets/eba07e6f-64fe-433a-8a20-afe4d775de57)    
+![Top Products](https://github.com/user-attachments/assets/603a3dfe-07e5-4ab6-9654-78e1f6222f75)    
 
 **3️⃣ Bottom Products by Sales**  
-![Bottom Products](https://github.com/user-attachments/assets/eba07e6f-64fe-433a-8a20-afe4d775de57)       
+![Bottom Products](https://github.com/user-attachments/assets/9991d881-9a12-447e-98bc-2f4bb62e829d)       
 
 **4️⃣ Top Cities by Sales**  
-![Top Cities](https://github.com/user-attachments/assets/aea47030-c63b-4591-b552-2ca9f01d2747)   
+![Top Cities](https://github.com/user-attachments/assets/8f92de83-2308-4f4c-afc0-38cef4257a15)
+
 
 **5️⃣ Promotions Impact**  
-![Promotions Impact](https://github.com/user-attachments/assets/aea47030-c63b-4591-b552-2ca9f01d2747)  
+![Promotions Impact]("https://github.com/user-attachments/assets/228426ad-e263-4ca8-9f82-e83092184c82)
+
 
 **6️⃣ Sales Trends**  
-![Sales Trends](https://github.com/user-attachments/assets/9be906d2-aa83-4c95-aa36-56ab366504c6)  
+![Sales Trends](https://github.com/user-attachments/assets/a509e970-33f5-4a77-92bb-b56d057b1c1c)  
 
 ---
 
